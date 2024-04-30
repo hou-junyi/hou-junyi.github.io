@@ -1,11 +1,9 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: cv
 nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+nav_order: 999
 ---
+
+<embed src="/assets/pdf/en_research2.pdf" width="100%" height="1100px" type="application/pdf" />
