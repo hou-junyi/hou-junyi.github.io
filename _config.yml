@@ -2,10 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: HOU Junyi (侯君宜)'s Homepage # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Junyi
-middle_name: 
-last_name: Hou
+last_name: Hou (侯君宜)
 email: junyi.h@comp.nus.edu.sg
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Junyi's Official Homepage
@@ -44,7 +43,7 @@ rss_icon: true
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
