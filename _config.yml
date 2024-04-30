@@ -425,16 +425,6 @@ third_party_libraries:
       css: "https://cdn.jsdelivr.net/npm/diff2html@{{version}}/bundles/css/diff2html.min.css"
       js: "https://cdn.jsdelivr.net/npm/diff2html@{{version}}/bundles/js/diff2html-ui.min.js"
     version: "3.4.47"
-  echarts:
-    integrity:
-      js:
-        library: "sha256-QvgynZibb2U53SsVu98NggJXYqwRL7tg3FeyfXvPOUY="
-        dark_theme: "sha256-sm6Ui9w41++ZCWmIWDLC18a6ki72FQpWDiYTDxEPXwU="
-    url:
-      js:
-        library: "https://cdn.jsdelivr.net/npm/echarts@{{version}}/dist/echarts.min.js"
-        dark_theme: "https://cdn.jsdelivr.net/npm/echarts@{{version}}/theme/dark-fresh-cut.js"
-    version: "5.5.0"
   google_fonts:
     url:
       fonts: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&display=swap"
@@ -506,12 +496,6 @@ third_party_libraries:
     url:
       js: "https://cdn.jsdelivr.net/npm/medium-zoom@{{version}}/dist/medium-zoom.min.js"
     version: "1.1.0"
-  mermaid:
-    integrity:
-      js: "sha256-TtLOdUA8mstPoO6sGvHIGx2ceXrrX4KgIItO06XOn8A="
-    url:
-      js: "https://cdn.jsdelivr.net/npm/mermaid@{{version}}/dist/mermaid.min.js"
-    version: "10.7.0"
   polyfill:
     url:
       js: "https://cdnjs.cloudflare.com/polyfill/v{{version}}/polyfill.min.js?features=es6"

@@ -7,3 +7,11 @@
 
 "Vision":
   color: "#009f36"
+
+"ICLR 2024":
+  url: https://iclr.cc/virtual/2024/index.html
+  color: "#89ab65"
+
+"TNNLS 2024":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385
+  color: "#005293"
