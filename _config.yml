@@ -8,7 +8,9 @@ last_name: Hou (侯君宜)
 email: junyi.h@comp.nus.edu.sg
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Junyi's Official Homepage
-footer_text: 
+footer_text: >
+  <script defer src="https://analytics.us.umami.is/script.js" data-website-id="987f9036-c41c-49bd-9b47-03c7d1361eac"></script>
+  <a style="display: inline-flex; width: 1em; color: var(--global-text-color)" href="https://us.umami.is/share/riDOMOhHYT6Ku6Wf/profile.junyi.dev"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="tabler-icon tabler-icon-report-analytics" style="width:calc(1.125rem * var(--mantine-scale));height:calc(1.125rem * var(--mantine-scale))"><path d="M9 5h-2a2 2 0 0 0 -2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-12a2 2 0 0 0 -2 -2h-2"></path><path d="M9 3m0 2a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v0a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2z"></path><path d="M9 17v-5"></path><path d="M12 17v-1"></path><path d="M15 17v-3"></path></svg></a>
 keywords: junyi-hou, junyi, houjunyi, hou-junyi # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
