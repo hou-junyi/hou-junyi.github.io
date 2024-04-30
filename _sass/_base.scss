@@ -372,8 +372,8 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
-
+    font-size: 2rem;
+    gap: 2rem;
     a {
       i::before {
         color: var(--global-text-color);
@@ -1108,5 +1108,12 @@ swiper-container {
 
   .ps-algorithm.with-caption > .ps-line:first-child {
     border-bottom: 2px solid var(--global-text-color);
+  }
+}
+
+.education {
+  .education-title {
+    color: var(--global-text-color);
+    font-weight: bold;
   }
 }

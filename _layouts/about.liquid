@@ -48,6 +48,16 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+    <h2>
+      education
+    </h2>
+    {% include education.liquid %}
+
+    <h2>
+      work experience
+    </h2>
+    {% include work_experience.liquid %}
+    
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
       <h2>
@@ -59,7 +69,7 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">publications</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}

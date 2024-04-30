@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>National University of Singapore</a>. Address. Contacts. Moto. Etc.
+subtitle: Research Assistant at <a href='#'>National University of Singapore</a>
 
 profile:
   align: right
