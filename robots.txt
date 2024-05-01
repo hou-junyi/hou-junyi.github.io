@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hou-junyi.github.io/sitemap.xml
+Sitemap: https://profile.junyi.dev/sitemap.xml
