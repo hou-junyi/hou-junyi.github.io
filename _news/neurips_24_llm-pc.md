@@ -6,4 +6,4 @@ related_posts: false
 ---
 <!-- markdownlint-disable MD041 -->
 
-Thrilled to co-organize [The NeurIPS 2024 LLM Privacy Challenge!](https://llm-pc.github.io/) Join us for the competition!
+🏁 Thrilled to co-organize [The NeurIPS 2024 LLM Privacy Challenge!](https://llm-pc.github.io/) Join us for the competition!
