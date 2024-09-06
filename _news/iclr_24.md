@@ -6,4 +6,4 @@ related_posts: false
 ---
 <!-- markdownlint-disable MD041 -->
 
-One paper is accepted by **ICLR 2024**
+One benchmark paper is accepted by **ICLR 2024**
