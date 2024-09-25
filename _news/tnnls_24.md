@@ -6,4 +6,4 @@ related_posts: false
 ---
 <!-- markdownlint-disable MD041 -->
 
-One paper is accepted by **TNNLS 2024**
+📄 One paper is accepted by **TNNLS 2024**

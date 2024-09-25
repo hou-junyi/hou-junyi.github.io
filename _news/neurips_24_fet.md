@@ -6,4 +6,4 @@ related_posts: false
 ---
 <!-- markdownlint-disable MD041 -->
 
-One paper is accepted by **NeurIPS 2024**
+📄 One paper is accepted by **NeurIPS 2024**

@@ -6,4 +6,4 @@ related_posts: false
 ---
 <!-- markdownlint-disable MD041 -->
 
-One benchmark paper on LLM privacy is accepted by **VLDB 2024**
+📊 One benchmark paper on LLM privacy is accepted by **VLDB 2024**
